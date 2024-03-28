@@ -6,7 +6,7 @@ Y_POSITION = [-70, -40, -10, 20, 50, 80]
  
 
 
-class participant:
+class Participant:
     all_turtle = []
     def __init__(self):
 
